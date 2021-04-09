@@ -9,6 +9,7 @@ remote_theme        : oanhgle/oanhgle.github.io
 
 
 ### Plugins ###
+url: "https://oanhgle.github.io"  # the base hostname & protocol for your site, e.g. http://example.com
 
 plugins:
   # - jemoji
