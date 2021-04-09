@@ -1,3 +1,19 @@
 ---
 ---
-@import "portfolYOU";
+@import "portfolio";
+
+.half_highlight {
+    background: linear-gradient(to bottom, transparent 65%, $oc-pink-3 35%);
+}
+    
+.half_highlight2 {
+    background: linear-gradient(to bottom, transparent 65%, $oc-white 35%);
+}
+
+.half_highlight3 {
+    background: linear-gradient(to bottom, transparent 65%, Coral 35%);
+}
+.half_highlight4 {
+    background: linear-gradient(to bottom, transparent 75%, Coral 25%);
+}
+
