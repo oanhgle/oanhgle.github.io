@@ -4,7 +4,7 @@ description         : >-
                       Hi, I'm Oanh 👋
 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : oanhgle/oanhgle.github.io      
+repository          : oanhgle/oanhgle.github.io/      
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
