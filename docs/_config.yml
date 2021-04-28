@@ -2,14 +2,15 @@
 title               : Oanh Le.
 description         : >-
                       Hi, I'm Oanh 👋
+                      Welcome to my home on the Internet
 
-baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : oanhgle/oanhgle.github.io    
 remote_theme        : oanhgle/oanhgle.github.io
 
 
 ### Plugins ###
-url: "https://oanhgle.github.io"  # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://oanhgle.github.io"                        # the base hostname & protocol for your site, e.g. http://example.com
 
 plugins:
   # - jemoji
